@@ -1,12 +1,6 @@
-Leaflet Example
+NYC Bike Racks
 --
 
-Example of creating an interactive map with [Leaflet](https://leafletjs.com) and [OpenStreetMap](https://www.openstreetmap.org).
+The index.html file will display a webpage with a map and links to the forms when opened.
 
-See my blog post for details: https://asmaloney.com/2014/01/code/creating-an-interactive-map-with-leaflet-and-openstreetmap/
-
-(The image icons came from here: [clker.com](https://www.clker.com/clipart-google-maps-pin-blue.html))
-
-23 January 2014  
-Andy Maloney  
-https://asmaloney.com
+This project was completed by Peter Manos and Anum Jabeen as a part of the Fall 2022 SDG internship with the NYC DOT Asset Management Office.
