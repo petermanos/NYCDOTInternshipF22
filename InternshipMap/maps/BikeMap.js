@@ -23,6 +23,6 @@ var myIcon = L.icon({
 })
 
 for (var i = 0; i < markers.length; ++i) {
-  L.markers(markers.the_geom.coordinates(), { icon: myIcon })
+  L.markers(markers[i].the_geom.coordinates(), { icon: myIcon })
     .addTo(map)
 }
