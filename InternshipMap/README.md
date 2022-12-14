@@ -1,6 +1,6 @@
-NYC Bike Racks
+Bike Maps
 --
 
-The index.html file will display a webpage with a map and links to the forms when opened.
+This map was created by Peter Manos and Anum Jabeen as part of an internship with the New York City Department of Transportation Office of Asset Management.
 
-This project was completed by Peter Manos and Anum Jabeen as a part of the Fall 2022 SDG internship with the NYC DOT Asset Management Office.
+14 December 2022
